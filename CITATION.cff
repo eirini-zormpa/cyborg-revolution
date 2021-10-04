@@ -1,0 +1,18 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Cyborger
+    given-names: Luke
+cff-version: "1.1.0"
+date-released: 2021-10-31
+identifiers: 
+keywords: 
+  - freedom
+  - "open-source"
+  - "cyborg-revolution"
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/eirini-zormpa/cyborg-revolution"
+title: "Cyborg Revolution"
+...
