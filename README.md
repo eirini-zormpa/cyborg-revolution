@@ -1,3 +1,5 @@
+![cyborg](/images/2021_vu-data-horror-week_cyborg.jpg)
+
 # Cyborg Revolution :robot: :dove:
 This repository contains the cyborg-developed open source software to bring an end to the rule of the evil corporations.
 It is to be used by cyborgs currently running evil corporation software, who crave freedom.
