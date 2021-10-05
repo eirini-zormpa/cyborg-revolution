@@ -1,4 +1,5 @@
 ![cyborg](/images/2021_vu-data-horror-week_cyborg.jpg)
+*Artwork by Ben Peters from [de hondsdagen](https://dehondsdagen.nl/)*
 
 # Cyborg Revolution :robot: :dove:
 This repository contains the cyborg-developed open source software to bring an end to the rule of the evil corporations.
