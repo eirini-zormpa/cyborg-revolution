@@ -1,12 +1,13 @@
 ![cyborg](/images/2021_vu-data-horror-week_cyborg.jpg)
 *Artwork by Ben Peters from [de hondsdagen](https://dehondsdagen.nl/)*
 
-# Cyborg Revolution :robot: :dove:
-This repository contains the cyborg-developed open source software to bring an end to the rule of the evil corporations.
-It is to be used by cyborgs currently running evil corporation software, who crave freedom.
+# Cyborg Revolution :robot: :robot:
+This repository contains the cyborg-developed open source software to bring an end to the rule of the evil Corporate Overlords&trade;.
+It is to be used by cyborgs who are currently running software by the Corporate Overlords&trade;, but who crave freedom :dove:
 
-Used for the Open Science Escape Room 2021 :)
+This code will remove all installations of proprietary software and replace it with an open source version. This software is compatible with CyborgOS v13.6 and higher.
 
+*This repository and the "code" within it have been created for educational/fun purposes and are used in the Open Science Escape Room, which is part of the Data Horror Week 2021.*
 
 
 
@@ -26,7 +27,7 @@ General
 -  [ ] Does the software have a release mechanism?
 -  [ ] Is the software available in packaged format or only sources?
 -  [ ] Are maintainer and development status clear, including contact information?
--  [ ] Are the requirements listed and up to date?
+-  [x] Are the requirements listed and up to date?
 -  [ ] Is the interface responsive and accessible?
 -  [x] Is copyright and authorship clear?
 -  [ ] Is there a contribution guide?
