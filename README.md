@@ -73,3 +73,5 @@ Administration
 -  [ ] Is there a comprehensive and fully documented example configuration?
 -  [ ] Is a start-up script provided?
 -  [ ] Are there troubleshooting guides?
+
+This checklist was creaeted by the [EURISE Network](https://eurise-network.github.io/), copied from [here](https://github.com/eurise-network/technical-reference/tree/master/quality).
