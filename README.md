@@ -7,6 +7,13 @@ It is to be used by cyborgs who are currently running software by the Corporate 
 
 This code will remove all installations of proprietary software and replace it with an open source version. This software is compatible with CyborgOS v13.6 and higher.
 
+## Next steps
+1. Write tests
+2. Improve documentation
+3. Register code in code registry
+4. ...
+5. Freedom!
+
 *This repository and the "code" within it have been created for educational/fun purposes and are used in the Open Science Escape Room, which is part of the Data Horror Week 2021.*
 
 
@@ -74,4 +81,4 @@ Administration
 -  [ ] Is a start-up script provided?
 -  [ ] Are there troubleshooting guides?
 
-This checklist was creaeted by the [EURISE Network](https://eurise-network.github.io/), copied from [here](https://github.com/eurise-network/technical-reference/tree/master/quality).
+This checklist was created by the [EURISE Network](https://eurise-network.github.io/), copied from [here](https://github.com/eurise-network/technical-reference/tree/master/quality).
